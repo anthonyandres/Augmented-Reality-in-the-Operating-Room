@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartPage.unity
+    guid: b0f5271af7d58554f83c1937f30011d0
+  - enabled: 1
+    path: Assets/Scenes/VertebraeSelectPage.unity
+    guid: bb2b992e9ed603648a058e8857df9efe
+  - enabled: 1
+    path: Assets/Scenes/ToolSelectPage.unity
+    guid: 724009bfe72fd144bbced1822307f76e
+  - enabled: 1
+    path: Assets/Scenes/Tracking.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/CalibrationProtocol.unity
+    guid: 77c523c73d4849f438bea58bada0cbd5
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 0805ad6f9a0a9ae4da0e87086a688b65, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 71fa5a91ed8a140409514698ed732717, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 26f875a5289293c4684dfe0bfd04b999, type: 2}

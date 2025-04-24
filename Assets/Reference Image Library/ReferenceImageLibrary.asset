@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5746836349945236643
+  m_GuidHigh: 11996313538561707933
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5442365707649510418
+      m_GuidHigh: 2417616669736491957
+    m_SerializedTextureGuid:
+      m_GuidLow: 6954929566721232014
+      m_GuidHigh: 15078456600602032313
+    m_Size: {x: 0.079375, y: 0.079375}
+    m_SpecifySize: 1
+    m_Name: frame(1)
+    m_Texture: {fileID: 2800000, guid: 9647cc8edf976084b93807a0637041d1, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5142402331559290236
+      m_GuidHigh: 4860768292268245674
+    m_SerializedTextureGuid:
+      m_GuidLow: 12782514484033382269
+      m_GuidHigh: 17126388189423831531
+    m_Size: {x: 0.16, y: 0.16}
+    m_SpecifySize: 1
+    m_Name: earth
+    m_Texture: {fileID: 2800000, guid: d518677d9d32b164eb890d9c5127aded, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5389060705163491227
+      m_GuidHigh: 2998632493460593540
+    m_SerializedTextureGuid:
+      m_GuidLow: 11251137467873080992
+      m_GuidHigh: 7394330968736605963
+    m_Size: {x: 0.079375, y: 0.079375}
+    m_SpecifySize: 1
+    m_Name: obama
+    m_Texture: {fileID: 2800000, guid: 7ba9b6a011ea9c240b2737d7d6f09d66, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4816410530590274943
+      m_GuidHigh: 15263441631776979126
+    m_SerializedTextureGuid:
+      m_GuidLow: 13250892802583365950
+      m_GuidHigh: 13912263654252446922
+    m_Size: {x: 0.063008, y: 0.08800001}
+    m_SpecifySize: 1
+    m_Name: toolcard
+    m_Texture: {fileID: 2800000, guid: 36c3093ea0ccb7e4ca844b4d154a12c1, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4881234055927851544
+      m_GuidHigh: 9658431988313585845
+    m_SerializedTextureGuid:
+      m_GuidLow: 14682997502903670583
+      m_GuidHigh: 12880736561356239131
+    m_Size: {x: 0.05892354, y: 0.08588486}
+    m_SpecifySize: 1
+    m_Name: spinecard
+    m_Texture: {fileID: 2800000, guid: 5e8557377c6fcbc41b710651a891c1b2, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5465437110109328545
+      m_GuidHigh: 13000802439610242183
+    m_SerializedTextureGuid:
+      m_GuidLow: 12953712801437596261
+      m_GuidHigh: 799826328554349064
+    m_Size: {x: 0.059512, y: 0.086}
+    m_SpecifySize: 1
+    m_Name: exodia
+    m_Texture: {fileID: 2800000, guid: 441e3a65d529b3c408a27ce3ce8d190b, type: 3}
